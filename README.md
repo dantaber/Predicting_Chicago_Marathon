@@ -1,4 +1,4 @@
-# Project Luther: Predicting Chicago Marathon
+# Predicting Chicago Marathon
 
 This repository contains files related to an analysis of runner times during the 2016 Chicago Marathon. I've run 10 marathons (#11 is one week away!) and have always wondered - "What's the best way to pace yourself during a marathon?" To answer this, I used ridge regression to predict finishing times based on 2 sets of features:
 
